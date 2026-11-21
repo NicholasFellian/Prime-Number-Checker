@@ -1,0 +1,25 @@
+#InputNumber { 
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    
+}
+#InputLabel { 
+    font-size: 40px;
+}
+body{
+    text-align: center;
+    background-color:antiquewhite;
+}
+#PrimeChecker {
+    width: 200px;
+    height: 50px;
+    margin-top: 150px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
